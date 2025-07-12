@@ -13,13 +13,13 @@ const handler = async (m, { conn, command }) => {
 
   if (command === 'consejo') {
     const consejo = consejos[Math.floor(Math.random() * consejos.length)];
-    const mensaje = `╭─◆────◈⚘◈─────◆─╮\n\n⠀⠀🌟 ${tradutor.texto1} 🌟\n\n❥ ${consejo}\n\n╰─◆────◈⚘◈─────◆─╯`;
+    const mensaje = `╭─ ☁────◈⚘◈───── ☁─╮\n\n⠀⠀🌟 ${tradutor.texto1} 🌟\n\n❥ ${consejo}\n\n╰─ ☁────◈⚘◈───── ☁─╯`;
     await m.reply(mensaje);
   }
 
   if (command === 'fraseromantica') {
     const frase_romantica = frasesromanticas[Math.floor(Math.random() * frasesromanticas.length)];
-    const mensaje = `╭─◆────◈⚘◈─────◆─╮\n\n⠀⠀💖 ${tradutor.texto2} 💖\n\n❥ ${frase_romantica}\n\n╰─◆────◈⚘◈─────◆─╯`;
+    const mensaje = `╭─ ☁────◈⚘◈───── ☁─╮\n\n⠀⠀💖 ${tradutor.texto2} 💖\n\n❥ ${frase_romantica}\n\n╰─ ☁────◈⚘◈───── ☁─╯`;
     await m.reply(mensaje);
   }
 
