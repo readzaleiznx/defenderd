@@ -3,7 +3,7 @@ const handler = async (m, {conn, isPrems}) => { // lastmiming
   const datas = global
   const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje
   const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
-  const tradutor = _translate.plugins.rpg_minar_mysticcoins
+  const tradutor = _translate.plugins.rpg_minar_𝐔𝐧𝐊𝐧Coins
 
   const user = global.db.data.users[m.sender];
   const premium = user.premium;
@@ -33,7 +33,7 @@ const handler = async (m, {conn, isPrems}) => { // lastmiming
 };
 handler.help = ['minar2'];
 handler.tags = ['xp'];
-handler.command = ['minar2', 'miming2', 'mine2', 'minarmysticcoins', 'minarcoins', 'minarmystic'];
+handler.command = ['minar2', 'miming2', 'mine2', 'minar𝐔𝐧𝐊𝐧Coins', 'minarcoins', 'minarmystic'];
 handler.fail = null;
 handler.exp = 0;
 export default handler;

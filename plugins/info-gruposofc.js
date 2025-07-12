@@ -9,13 +9,13 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj
+1.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
 
-2.- https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs
+2.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
 
-3.- https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F
+3.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
 
-4.- https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC
+4.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
 
 > Sunlight Team  :
 
@@ -23,7 +23,7 @@ ${tradutor.texto1[1]}
 
 2.- https://chat.whatsapp.com/Fy74b6fgE9SJJpHVi6CKJY`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
+    'document': {url: `https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -32,7 +32,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
+        'mediaUrl': 'https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
