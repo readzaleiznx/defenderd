@@ -2205,7 +2205,7 @@
         },
         "gc_config": {
             "texto1": [
-                "*[❗] WRONG FORMAT!!*",
+                "*[ ✔ ] GROUP CONFIGURED CORRECTLY*",
                 "*┏━━━❲ ✨EXAMPLE✨ ❳━━━┓*",
                 "*[ ✔ ] GROUP CONFIGURED CORRECTLY*"
             ]

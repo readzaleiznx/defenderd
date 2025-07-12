@@ -29,10 +29,10 @@ global.prems = ['51938292539'];
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'BrunoSobrino';
+global.author = '𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓';
 global.wm = '𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓';
-global.titulowm = 'Mystic Bot';
-global.titulowm2 = `Mystic Bot`
+global.titulowm = '𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓';
+global.titulowm2 = `𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓`
 global.igfg = '𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
