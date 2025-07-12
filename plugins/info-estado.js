@@ -31,9 +31,9 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = '𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓 Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Bruno Sobrino
+  ${tradutor.texto1[1]} Alexn
   ${tradutor.texto1[2]} +51938292539
-  ${tradutor.texto1[3]} paypal.me/BrunoSob
+  ${tradutor.texto1[3]} Alexn
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓",
+        mediaUrl: "https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j",
         mediaType: 2,
         previewType: "pdf",
         title: "𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓",
+        sourceUrl: "https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j",
       },
     },
     caption: info,

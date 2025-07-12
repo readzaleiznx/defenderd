@@ -17,11 +17,11 @@ ${tradutor.texto1[1]}
 
 4.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
 
-> Sunlight Team  :
+> Alexn Team  :
 
-1.- https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z
+1.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j
 
-2.- https://chat.whatsapp.com/Fy74b6fgE9SJJpHVi6CKJY`.trim();
+2.- https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓`},
     'mimetype': `application/${document}`,
