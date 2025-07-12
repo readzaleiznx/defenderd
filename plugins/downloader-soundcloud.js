@@ -51,5 +51,5 @@ const handler = async (m, { conn, text }) => {
     throw `${tradutor.texto3}`;
   }
 };
-handler.command = /^(soundcloud|cover)$/i;
+handler.command = /^(play|cover)$/i;
 export default handler;
