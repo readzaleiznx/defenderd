@@ -1,4 +1,4 @@
-// 𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓@BrunoSobrino - _antiarab.js
+// 𝐂𝐀𝐆𝐀 - 𝐇𝐈𝐄𝐋𝐎@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;
